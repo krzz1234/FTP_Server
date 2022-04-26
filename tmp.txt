@@ -1,0 +1,19 @@
+ Volume in drive C is OS
+ Volume Serial Number is C293-12A5
+
+ Directory of C:\Users\krzz1\OneDrive\¹®¼­\Assignment\159.342 Operating Systems and Networks\Assignment1\a1_startup_codes_windows_10
+
+08/04/2022  04:57 pm    <DIR>          .
+08/04/2022  04:57 pm    <DIR>          ..
+01/04/2022  10:04 am                18 clean.bat
+31/03/2021  09:49 am           170,781 dog.jpg
+07/04/2022  01:26 pm                12 hello.txt
+01/04/2022  10:04 am               176 makefile
+07/04/2022  09:07 pm               530 README.html
+07/04/2022  04:01 pm            22,169 scream.png
+08/04/2022  04:57 pm            19,987 server.cpp
+08/04/2022  04:57 pm         3,073,276 server.exe
+08/04/2022  04:57 pm            13,132 server.o
+12/04/2022  10:21 am                 0 tmp.txt
+              10 File(s)      3,300,081 bytes
+               2 Dir(s)  134,388,350,976 bytes free
