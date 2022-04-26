@@ -1,3 +1,3 @@
 # FTP_Server
 
-Please read README.DOC for instructions
+Please read README.DOCX for instructions
